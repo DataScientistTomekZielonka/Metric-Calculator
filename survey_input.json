@@ -1,21 +1,21 @@
 {
     "job_order": {
-        "Voivodship": "Ma\u0142opolskie",
+        "Voivodship": "Lubuskie",
         "Industry": "Manufacturing",
-        "Job Type": "Forklift operators, internal logistics operators, etc.",
-        "Salary": 4225,
-        "Bonus": 0,
+        "Job Type": "Production workers, production operator, etc.",
+        "Salary": 8000,
+        "Bonus": 1500,
         "Benefits": {
-            "paid_meals": 0,
-            "sport_card": 0,
+            "paid_meals": 1,
+            "sport_card": 1,
             "medical_care": 0
         },
         "Contract Length": 1,
         "Contract Type": "Contract work",
-        "Brand Recognition": "Very weak",
-        "Recruitment Difficulty": "Very difficult",
+        "Brand Recognition": "Very strong",
+        "Recruitment Difficulty": "Easy",
         "Shifts": "Two 12hrs shifts",
-        "Overtime": "Regular overtime",
-        "Employee Satisfaction": "Very low"
+        "Overtime": "Ocassional overtime",
+        "Employee Satisfaction": "Rather high"
     }
 }

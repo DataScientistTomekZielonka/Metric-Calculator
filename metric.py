@@ -36,10 +36,10 @@ def outcome() :
 
 
     #Importing the filtering criterions
-    filter_criterions = import_json(filters_input.json)
+    filter_criterions = import_json('filters_input.json')
 
     #Importing the survey entry
-    survey_entry = import_json(survey_input.json)
+    survey_entry = import_json('survey_input.json')
 
     #Transforming dictionary into a 1-row of dataframe
     survey_df = pd.DataFrame(
